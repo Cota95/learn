@@ -1,1 +1,28 @@
+body {
+    color: red;
+    text-align:center;
+    background-color: red;
+    background-image: url("./bicycle.jpg");
+    background-size: cover;
+}
 
+div {
+    background-color: rgba(21, 16, 130, .6);
+    padding: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+img {
+    width: 25%;
+}
+
+a {
+    text-decoration: none;
+
+}
+
+a:visited {
+    text-decoration: none;
+    color:white;
+}
